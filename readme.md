@@ -5,7 +5,7 @@
 ## Dataset
 
 > PISA is a survey of students' skills and knowledge as they approach the end of compulsory education. It is not a conventional school test. Rather than examining how well students have learned the school curriculum, it looks at how well prepared they are for life beyond school.
-> To work with this dataset I dropped most of it's columns and left only the few that I wanted to use.
+> To work with this dataset I dropped most of its columns and left only the few that I wanted to use.
 
 
 ## Summary of Findings
